@@ -5,16 +5,16 @@ SHOPEE SCRAPE
 Shopee Scrape is a tool that functions to collect data - the data needed, such as finding data from photos, prices, names, store locations and others.</br>
 </H4>
 <p align="center">
-<a href="https://github.com/warifp"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Version" src="https://img.shields.io/github/release/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Contributors" src="https://img.shields.io/github/contributors/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Language" src="https://img.shields.io/github/languages/count/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="TopLanguage" src="https://img.shields.io/github/languages/top/warifp/FacebookToolkit.svg"/></a>
+<a href="https://github.com/warifp"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/warifp/shopee-scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Version" src="https://img.shields.io/github/v/release/warifp/Shopee-Scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Contributors" src="https://img.shields.io/github/contributors/warifp/shopee-scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Language" src="https://img.shields.io/github/languages/count/warifp/shopee-scrape"/></a>
+<a href="https://github.com/warifp"><img alt="TopLanguage" src="https://img.shields.io/github/languages/top/warifp/shopee-scrape"/></a>
 </br>
-<a href="https://github.com/warifp"><img alt="Search" src="https://img.shields.io/github/search/warifp/FacebookToolkit/facebook.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/repo-size/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/forks/warifp/FacebookToolkit.svg"/></a>
-<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/stars/warifp/FacebookToolkit.svg"/></a>
+<a href="https://github.com/warifp"><img alt="Search" src="https://img.shields.io/github/search/warifp/shopee-scrape/scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Repository Size" src="https://img.shields.io/github/repo-size/warifp/shopee-scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Forks" src="https://img.shields.io/github/forks/warifp/shopee-scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Star" src="https://img.shields.io/github/stars/warifp/shopee-scrape"/></a>
 </p>
 
 <p align="center">
@@ -23,17 +23,17 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 <p align="center">
 <a><br> Terminal Shopee Scrape </br></a>
-  <img src="images/shopee_scrape_terminal.png" width="350" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
+  <img src="images/shopee_scrape_terminal.png" width="500" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
 </p>
 
 <p align="center">
 <a><br> Terminal Shopee Scrape </br></a>
-  <img src="images/shopee_scrape_html.png" width="350" title="HTML Result Shopee Scrape" alt="HTML Result Shopee Scrape">
+  <img src="images/shopee_scrape_html.png" width="500" title="HTML Result Shopee Scrape" alt="HTML Result Shopee Scrape">
 </p>
 
 <p align="center">
 <a><br> Export to Excel </br></a>
-  <img src="images/shopee_scrape_xls.png" width="350" title="Export to Excel" alt="Export to Excel">
+  <img src="images/shopee_scrape_xls.png" width="500" title="Export to Excel" alt="Export to Excel">
 </p>
 
 ## Features in tools
