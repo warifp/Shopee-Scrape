@@ -51,8 +51,6 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 Version 1.0 :
 
-    https://www.facebook.com/warifp/videos/2340053176234744/
-
   Changelog :
 
 -   Add tools
