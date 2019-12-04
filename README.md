@@ -23,17 +23,17 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 <p align="center">
 <a><br> Terminal Shopee Scrape </br></a>
-  <img src="shopee_scrape_cli.png" width="350" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
+  <img src="images/shopee_scrape_cli.png" width="350" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
 </p>
 
 <p align="center">
 <a><br> Terminal Shopee Scrape </br></a>
-  <img src="shopee_scrape_html.png" width="350" title="HTML Result Shopee Scrape" alt="HTML Result Shopee Scrape">
+  <img src="images/shopee_scrape_html.png" width="350" title="HTML Result Shopee Scrape" alt="HTML Result Shopee Scrape">
 </p>
 
 <p align="center">
 <a><br> Export to Excel </br></a>
-  <img src="shopee_scrape_xls.png" width="350" title="Export to Excel" alt="Export to Excel">
+  <img src="images/shopee_scrape_xls.png" width="350" title="Export to Excel" alt="Export to Excel">
 </p>
 
 ## Features in tools
