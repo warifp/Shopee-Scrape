@@ -23,7 +23,7 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 <p align="center">
 <a><br> Terminal Shopee Scrape </br></a>
-  <img src="images/shopee_scrape_cli.png" width="350" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
+  <img src="images/shopee_scrape_terminal.png" width="350" title="Terminal Shopee Scrape" alt="Terminal Shopee Scrape">
 </p>
 
 <p align="center">
