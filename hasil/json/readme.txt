@@ -1,0 +1,1 @@
+Kamu bisa menggunakan file .json ini sebagai API.
