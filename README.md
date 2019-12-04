@@ -40,11 +40,11 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 | Name                               | Status             | Information                                        |
 | ---------------------------------- | ------------------ | -------------------------------------------------- |
-| Nama Barang                        | :white_check_mark: | get access token your facebook account             |
-| Harga Barang                       | :white_check_mark: | view your account information                      |
-| Status Stock                       | :white_check_mark: | retrieve all your friend's ID data                 |
-| Foto Barang                        | :white_check_mark: | retrieve all your friend's Email data              |
-| Lokasi Toko                        | :white_check_mark: | retrieve all your friend's Name data               |
+| Nama Barang                        | :white_check_mark: | nama lengkap barang [judul]                        |
+| Harga Barang                       | :white_check_mark: | harga barang terkini [price]                       |
+| Status Stock                       | :white_check_mark: | status stock tersedia atau tidak tersedia          |
+| Foto Barang                        | :white_check_mark: | foto barang artikel                                |
+| Lokasi Toko                        | :white_check_mark: | lokasi toko berdasarkan informasi toko             |
 
 
 ## Version
