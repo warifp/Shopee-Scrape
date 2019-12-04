@@ -6,7 +6,7 @@ Shopee Scrape is a tool that functions to collect data - the data needed, such a
 </H4>
 <p align="center">
 <a href="https://github.com/warifp"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/warifp/shopee-scrape"/></a>
-<a href="https://github.com/warifp"><img alt="Version" src="https://img.shields.io/github/v/release/warifp/Shopee-Scrape"/></a>
+<a href="https://github.com/warifp"><img alt="Release" src="https://img.shields.io/github/release-date/warifp/shopee-scrape"/></a>
 <a href="https://github.com/warifp"><img alt="Contributors" src="https://img.shields.io/github/contributors/warifp/shopee-scrape"/></a>
 <a href="https://github.com/warifp"><img alt="Language" src="https://img.shields.io/github/languages/count/warifp/shopee-scrape"/></a>
 <a href="https://github.com/warifp"><img alt="TopLanguage" src="https://img.shields.io/github/languages/top/warifp/shopee-scrape"/></a>
