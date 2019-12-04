@@ -46,6 +46,8 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 | Foto Barang                        | :white_check_mark: | foto barang artikel                                |
 | Lokasi Toko                        | :white_check_mark: | lokasi toko berdasarkan informasi toko             |
 
+You can use your search results with the "results.json" API file stored in "results / json / results.json".
+
 
 ## Version
 
