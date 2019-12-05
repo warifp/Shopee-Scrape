@@ -27,7 +27,7 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 </p>
 
 <p align="center">
-<a><br> Terminal Shopee Scrape </br></a>
+<a><br> HTML Shopee Scrape </br></a>
   <img src="images/shopee_scrape_html.png" width="500" title="HTML Result Shopee Scrape" alt="HTML Result Shopee Scrape">
 </p>
 
