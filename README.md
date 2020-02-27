@@ -64,7 +64,7 @@ You can download the latest composer in [here](https://getcomposer.org/download/
 
     git clone https://github.com/warifp/Shopee-Scrape
 
-    composer 
+    composer update
     
 ### Termux
 
